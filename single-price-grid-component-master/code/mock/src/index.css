@@ -1,0 +1,73 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: hsl(200, 20%, 94%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+ div .box{
+  /* border: 1px solid; */
+  padding:10px;
+  padding-top:100px;
+
+}
+.box1{
+ border:0.5px solid white;
+ background-color: white;
+ text-align: left;
+ padding: 8px;
+}
+h4{
+  color:hsl(218, 22%, 67%);
+}
+.text{
+  color:hsl(71, 73%, 54%);
+}
+.para{
+  color: hsl(210, 2%, 58%);
+}
+.box2{
+  border:0.5px solid hsl(179, 62%, 43%);
+  color:white;
+  background-color: hsl(179, 62%, 43%);
+  text-align:left;
+}
+.box3{
+  border:0.5px solid hsl(179, 62%, 43%);
+  color:white;
+  background-color: hsl(179, 57%, 51%);
+  text-align: left;
+}
+h5{
+  /* padding: 7px; */
+  margin-top:20px;
+  
+}
+span{
+  font-size: 14px;
+  color:hsl(204, 43%, 93%);
+}
+strong{
+  font-size: 22px;;
+}
+#submit{
+  width: 240px;
+  color:white;
+  border:1px solid hsl(71, 73%, 54%);
+  border-radius: 8px;
+  padding:5px;
+  background-color: hsl(71, 73%, 54%);
+  margin-top:10px;
+
+}
+.tuts{
+  font-size: 14px;
+  color:rgb(241, 238, 238);
+}
